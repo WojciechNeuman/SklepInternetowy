@@ -1,0 +1,49 @@
+﻿@{
+ViewData["Title"] = "Opis aplikacji Sklep Internetowy";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+    <h1>@ViewData["Title"]</h1>
+    <p>
+        Aplikacja "Sklep Internetowy" jest platformą e-commerce, która umożliwia użytkownikom przeglądanie i wyszukiwanie swoich zamówień.
+        Użytkownicy aplikacji mają możliwość tworzenia kont użytkownika, dokonywania zamówień oraz zarządzania nimi.
+        Poniżej znajduje się opis struktury danych wykorzystywanych przez aplikację:
+    </p>
+    <h2>Tabela "Users":</h2>
+<ul>
+    <li>user_id (klucz główny)</li>
+    <li>name</li>
+    <li>email</li>
+    <li>address</li>
+</ul>
+
+<h2>Tabela "Orders":</h2>
+<ul>
+    <li>order_id (klucz główny)</li>
+    <li>customer_id (klucz obcy powiązany z tabelą "Customers")</li>
+    <li>order_date</li>
+    <li>total_amount</li>
+</ul>
+
+<h2>Tabela "Products":</h2>
+<ul>
+    <li>product_id (klucz główny)</li>
+    <li>name</li>
+    <li>price</li>
+    <li>description</li>
+</ul>
+
+<h2>Tabela "OrderItems":</h2>
+<ul>
+    <li>order_item_id (klucz główny)</li>
+    <li>order_id (klucz obcy powiązany z tabelą "Orders")</li>
+    <li>product_id (klucz obcy powiązany z tabelą "Products")</li>
+    <li>quantity</li>
+</ul>
+</body>
+</html>

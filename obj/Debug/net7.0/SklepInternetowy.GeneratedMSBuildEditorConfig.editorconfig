@@ -1,0 +1,145 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SklepInternetowy
+build_property.RootNamespace = SklepInternetowy
+build_property.ProjectDir = /Users/wojciechneuman/Desktop/Studia/C#pz/ASP/SklepInternetowy/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/wojciechneuman/Desktop/Studia/C#pz/ASP/SklepInternetowy
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Customer/ShowCustomerOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvU2hvd0N1c3RvbWVyT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Customer/ShowSearchResults.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvU2hvd1NlYXJjaFJlc3VsdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Logowanie/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9nb3dhbmllL0xvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Logowanie/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9nb3dhbmllL0xvZ291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Logowanie/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9nb3dhbmllL1JlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Order/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Order/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Order/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/OrderItem/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJJdGVtL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/OrderItem/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJJdGVtL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/OrderItem/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJJdGVtL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/OrderItem/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJJdGVtL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/OrderItem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJJdGVtL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wojciechneuman/Desktop/Studia/C\#pz/ASP/SklepInternetowy/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-a6wvdcot5y
